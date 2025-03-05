@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: grey;
+}
+p {
+  color: black;
+}
+table
+ {
+  background-color: black;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+td
+ {
+  color: white;
+  width: 10%;
+  align : left;
+}
+a
+{
+  color: pink;
+}
