@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+  font-family:Trajan;
+}
+h1 {
+  color: grey;
+  font-family:Trajan;
+}
+h2 {
+  color: grey;
+  font-family:Trajan;
+}
+h3 {
+  color: grey;
+  font-family:Trajan;
+}
+h4 {
+  color: grey;
+  font-family:Trajan;
+}
+p {
+  color: black;
+  font-family:Trajan;
+}
+table
+ {
+  background-color: black;
+  color: white;
+  font-family:Trajan;
+  border-collapse: collapse;
+  width: 100%;
+}
+td
+ {
+  color: white;
+  font-family:Trajan;
+  width: 10%;
+  align: center;
+}
+a
+{
+  color: pink;
+  font-family:Trajan;
+}
+input[type="password"] {
+  -webkit-text-security: square;
+  font-family:Trajan;
+}
+form.show-passwords input[type="password"] {
+  -webkit-text-security: none;
+  font-family: Trajan;
+}
